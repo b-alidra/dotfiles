@@ -13,6 +13,7 @@
 !/.zsh
 /.zsh/cache
 !/.zshrc
+!/.oh-my-zsh
 
 !/.screenrc
 !/.tmux.conf
